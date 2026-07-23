@@ -1,13 +1,7 @@
-import Button from "./components/ui/Button";
+import Button from "@/components/ui/Button";
 
-
-function App(){
-  return (
-    <>
-    {/* <h1>Creative Portfolio</h1> */}
-    <Button />
-    </>
-  );
+function App() {
+  return <Button />;
 }
 
 export default App;
